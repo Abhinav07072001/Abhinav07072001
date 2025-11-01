@@ -162,8 +162,7 @@ Eager to apply problem-solving skills and contribute to real-world projects whil
 ---
 
 <div align="center">
-<h2>🌟 Thanks for visiting my profile!</h2>
-<p><em>Don't forget to ⭐ star my repositories if you find them interesting!</em></p>
+ ⭐ star my repositories if you find them interesting!</em></p>
 <p><strong>Open to collaborations and exciting opportunities!</strong></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
