@@ -28,16 +28,16 @@
 ## 🚀 About Me
 
 *Enthusiastic Computer Science Engineering student* with strong programming skills in **Java** and **JavaScript**.  
-Proficient in web technologies (**HTML, CSS, JavaScript frameworks**) and familiar with backend frameworks (**Node.js, Django, Spring Boot**).  
+Proficient in web technologies (**HTML, CSS, JavaScript frameworks**) and familiar with backend frameworks (**Node.js, Spring Boot**).  
 Knowledgeable in working with **SQL/MySQL databases** and **Git** for version control.  
 Eager to apply problem-solving skills and contribute to real-world projects while gaining hands-on experience in building scalable and efficient software solutions.
 
 - 🎓 *Completed Degree:* Computer Science Engineering at LNCT Group of Colleges (Jun 2025)  
 - 💼 *Focus Areas:* Full-Stack Development, AI Integration, System Design  
-- 🌱 *Currently learning:* Advanced System Design, Cloud Technologies (AWS, Azure)  
+- 🌱 *Currently learning:* Advanced System Design, Cloud Technologies, Bolt AI  
 - 👯 *Looking to collaborate on:* Open Source Projects and AI/ML Applications  
 - 💬 *Ask me about:* Java, React, JavaScript, TypeScript, or AI  
-- 📫 *Reach me at:* dixitabhinav788@gmail.com  
+- 📫 *Reach me at:* [dixitabhinav788@gmail.com](mailto:dixitabhinav788@gmail.com)  
 - 📱 *Phone:* 7078016888  
 - ⚡ *Fun fact:* I love building AI-powered applications and automation tools  
 
@@ -61,18 +61,12 @@ Eager to apply problem-solving skills and contribute to real-world projects whil
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,postgresql,mongodb,mysql" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgresql,mongodb,mysql" />
 </p>
 
 ### 🤖 AI & Tools
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/BoltAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </p>
@@ -81,84 +75,54 @@ Eager to apply problem-solving skills and contribute to real-world projects whil
 
 ---
 
-## 🏆 Featured Projects
+## 💻 Projects Showcase
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🤖 AI Resume Builder</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<br><br>
-<p><strong>Tech Stack:</strong> React | Next.js | TypeScript | Tailwind CSS | Gemini API | Puppeteer</p>
-<p>An AI-powered resume-building platform using Next.js, React.js, TypeScript, and Tailwind CSS. Integrated OpenAI and Gemini APIs to enhance resume content with professional phrasing, tailored summaries, and skill suggestions. Features user-friendly forms for adding and editing personal details, education, experience, and projects with real-time live preview. Enables instant export of resumes to PDF and Word formats with optimized SEO through modular architecture.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">🌐 Revamped Niche Community Platform</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<br><br>
-<p><strong>Tech Stack:</strong> React.js | Firebase | Node.js | PostgreSQL | Socket.IO | TypeScript | Quill.js</p>
-<p>An interactive platform for discovering and joining niche communities with real-time updates using React.js and Firebase. Built responsive discussion boards with threaded comments, rich-text editing, and voting system. Implemented real-time dynamic feeds with WebSockets, AI-powered recommendations, smart filters, live polls, Q&A sessions, push notifications, achievements, and automated content moderation.</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">🏌️ Sidcup Family Golf Clone</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<br><br>
-<p><strong>Tech Stack:</strong> HTML5 | CSS3 | JavaScript | Responsive Design</p>
-<p>A pixel-perfect responsive clone of the Sidcup Family Golf website using HTML, CSS, and JavaScript. Recreated core features and design elements to closely match the original site and enhance user experience. Customized layouts and components to meet specific learning objectives and project requirements with smooth performance across devices.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">🎯 Automatic Certification Generator</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Private-Repository-red?style=for-the-badge&logo=github&logoColor=white" />
-<br><br>
-<p><strong>Tech Stack:</strong> Django | HTML | CSS | JavaScript | Database Integration | Email Services</p>
-<p>A comprehensive web platform for event and quiz management that enables hosts to create events, manage registrations, and automatically generate certificates. Features include banner management, prize pool handling, scheduling, participant registration, automatic certificate generation from templates, CSV integration, instant email delivery, and scalable database solutions for various organizations.</p>
-</div>
-</td>
-</tr>
-</table>
-</div>
+### 🏋️‍♂️ [FitNest](https://friendly-gelato-f521e8.netlify.app/) 
+> **Description:**  
+> FitNest is a simple yet engaging fitness web app designed to help users stay on track with their health goals.  
+> It brings together workout videos, meal suggestions, and progress tracking in one clean interface.  
+**🔧 Tech Used:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)  
+**🔗 Links:** 🌐 [Live Site](https://friendly-gelato-f521e8.netlify.app/) • 💻 [GitHub Repository](https://github.com/Abhinav07072001/FitnessWebApp?tab=readme-ov-file)
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinav07072001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav07072001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav07072001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav07072001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-</div>
+### 🤝 [SkillSwap](https://skillimprove.netlify.app/) 
+> **Description:**  
+> SkillSwap is an interactive web platform that connects learners and experts to exchange knowledge and skills.  
+> Users can create profiles, share tech-related posts, and host or join live learning sessions — building a community-driven ecosystem for collaborative learning.  
+**🔧 Tech Used:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)  
+**🔗 Links:** 🌐 [Live Site](https://skillimprove.netlify.app/) • 💻 [GitHub Repository](https://github.com/Abhinav07072001/SkillSwap-frontend?tab=readme-ov-file)
 
 ---
 
-## 🎯 Current Focus & Goals
+### 💼 [Portfolio](https://portfolio-alpha-rouge-51.vercel.app/) 
+> **Description:**  
+> This repository contains a portfolio project built using React.js and Vite.  
+> The portfolio showcases my skills, projects, and experience as a developer.  
+**🔧 Tech Used:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+**🔗 Links:** 🌐 [Live Site](https://portfolio-alpha-rouge-51.vercel.app/) • 💻 [GitHub Repository](https://github.com/Abhinav07072001/portfolio?tab=readme-ov-file)
+
+---
+
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI"/>
-<br><strong>AI Integration</strong>
-<br>Building AI-powered applications
-</td>
+<a href="https://portfolio-alpha-rouge-51.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="50"/>
+</a>
 
-<td align="
+<a href="https://www.linkedin.com/in/abhinavdixit771/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"/>
+</a>
+
+<a href="https://github.com/Abhinav07072001" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50"/>
+</a>
+
+<a href="mailto:dixitabhinav788@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50"/>
+</a>
+</div>
