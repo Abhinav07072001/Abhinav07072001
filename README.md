@@ -30,7 +30,6 @@ Proficient in web technologies (**HTML, CSS, JavaScript frameworks**) and famili
 Knowledgeable in working with **MongoDB/MySQL databases** and **Git** for version control.  
 Eager to apply problem-solving skills and contribute to real-world projects while gaining hands-on experience in building scalable and efficient software solutions.
 
-- 🎓 *Completed Degree:* Computer Science Engineering at LNCT Group of Colleges (Jun 2025)  
 - 💼 *Focus Areas:* Full-Stack Development, AI Integration, System Design  
 - 🌱 *Currently learning:* Advanced System Design, Cloud Technologies, Bolt AI  
 - 👯 *Looking to collaborate on:* Open Source Projects and AI/ML Applications  
