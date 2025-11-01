@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,18,20&height=180&section=header&text=Abhinav%20Dixit&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%E2%80%8B👨‍💻+Full+Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;🚀+JavaScript+%7C+Node.js+%7C+React+%7C+MongoDB;🌟+Building+Scalable+and+Smart+Applications;💡+Constantly+Learning+and+Improving;🎯+Open+for+Collaboration+and+New+Opportunities" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=👨‍💻+Full+Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;🚀+JavaScript+%7C+Node.js+%7C+React+%7C+MongoDB;🌟+Building+Scalable+and+Smart+Applications;💡+Constantly+Learning+and+Improving;🎯+Open+for+Collaboration+and+New+Opportunities" alt="Typing SVG" />
