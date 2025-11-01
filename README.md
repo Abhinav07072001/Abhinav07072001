@@ -27,16 +27,16 @@
 
 ## 🚀 About Me
 
-*Enthusiastic Computer Science Engineering student* with strong programming skills in **Java** and **JavaScript**.  
-Proficient in web technologies (**HTML, CSS, JavaScript frameworks**) and familiar with backend frameworks (**Node.js, Spring Boot**).  
-Knowledgeable in working with **SQL/MySQL databases** and **Git** for version control.  
+*Enthusiastic Computer Science Engineering student* with strong programming skills in **JavaScript**.  
+Proficient in web technologies (**HTML, CSS, JavaScript frameworks**) and familiar with backend frameworks (**Node.js**).  
+Knowledgeable in working with **MongoDB/MySQL databases** and **Git** for version control.  
 Eager to apply problem-solving skills and contribute to real-world projects while gaining hands-on experience in building scalable and efficient software solutions.
 
 - 🎓 *Completed Degree:* Computer Science Engineering at LNCT Group of Colleges (Jun 2025)  
 - 💼 *Focus Areas:* Full-Stack Development, AI Integration, System Design  
 - 🌱 *Currently learning:* Advanced System Design, Cloud Technologies, Bolt AI  
 - 👯 *Looking to collaborate on:* Open Source Projects and AI/ML Applications  
-- 💬 *Ask me about:* Java, React, JavaScript, TypeScript, or AI  
+- 💬 *Ask me about:* JavaScript, React, Node.js, MongoDB, AI  
 - 📫 *Reach me at:* [dixitabhinav788@gmail.com](mailto:dixitabhinav788@gmail.com)  
 - 📱 *Phone:* 7078016888  
 - ⚡ *Fun fact:* I love building AI-powered applications and automation tools  
@@ -51,7 +51,7 @@ Eager to apply problem-solving skills and contribute to real-world projects whil
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,html,css" />
 </p>
 
 ### 🚀 Frontend Technologies
@@ -61,7 +61,7 @@ Eager to apply problem-solving skills and contribute to real-world projects whil
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgresql,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
 </p>
 
 ### 🤖 AI & Tools
@@ -107,22 +107,66 @@ Eager to apply problem-solving skills and contribute to real-world projects whil
 
 ---
 
+## 📊 GitHub Stats & Graphs
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinav07072001&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav07072001&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav07072001&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav07072001&theme=radical&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 <a href="https://portfolio-alpha-rouge-51.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="50"/>
 </a>
-
 <a href="https://www.linkedin.com/in/abhinavdixit771/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"/>
 </a>
-
 <a href="https://github.com/Abhinav07072001" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50"/>
 </a>
-
 <a href="mailto:dixitabhinav788@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50"/>
 </a>
+</div>
+
+---
+
+## 💡 Fun Facts & Interests
+
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+*🤖 Passionate about AI and machine learning technologies*  
+*🚀 Love building scalable web applications and APIs*  
+*📚 Always exploring new frameworks and best practices*  
+*🌟 Believe in clean, maintainable, and efficient code*  
+*☕ Fueled by coffee and continuous learning!* 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</div>
+
+---
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+<h2>🌟 Thanks for visiting my profile!</h2>
+<p><em>Don't forget to ⭐ star my repositories if you find them interesting!</em></p>
+<p><strong>Open to collaborations and exciting opportunities!</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
+<div align="center">
+<sub>💙 Built with passion and lots of ☕ | Always learning, always growing</sub>
 </div>
