@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>🌐 Check Out My Portfolio</h2>
-  <a href="https://portfolio-alpha-rouge-51.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-62a8.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌟_My_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B" alt="Portfolio" height="40"/>
   </a>
 </div>
@@ -94,7 +94,7 @@ Eager to apply problem-solving skills and contribute to real-world projects whil
 
 ---
 
-### 💼 [Portfolio](https://portfolio-alpha-rouge-51.vercel.app/) 
+### 💼 [Portfolio](https://my-portfolio-62a8.vercel.app/) 
 > **Description:**  
 > This repository contains a portfolio project built using React.js and Vite.  
 > The portfolio showcases my skills, projects, and experience as a developer.  
