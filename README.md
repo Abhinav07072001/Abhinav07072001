@@ -122,7 +122,7 @@ Eager to apply problem-solving skills and contribute to real-world projects whil
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-<a href="https://portfolio-alpha-rouge-51.vercel.app/" target="_blank">
+<a href="https://my-portfolio-62a8.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="50"/>
 </a>
 <a href="https://www.linkedin.com/in/abhinavdixit771/" target="_blank">
